@@ -22,12 +22,12 @@ files.each do |fl|
         fl_represent += 1
       end
     end
-    pipe_delimited_file << "#{groovify(fl).slice(6,fl.length - 1)}|" if 
+    pipe_delimited_file << "#{groovify(fl).slice(6,fl.length - 1)}|" if
       fl_represent == 0
   end
 end
 
 # Output to text file.
 File.open("industry-and-titles.txt", "w") do |file|
-  pipe_delimited_file.each { |line| file.write("#{line}\n") }
+  pipe_delimited_file.each { |line| file.puts(line) }
 end
