@@ -1,0 +1,22 @@
+Basically, the scraper will input a list of industries. It will then proceed
+to create a comma-separated file in this format:
+  industry,job_title1
+  industry,job_title2
+  industry2,job_title3
+and so forth.
+
+PART ONE:
+0. Initialize array.
+1. Replace spaces with underscores and ampersands with '%26'.
+2. Iterate through array of industries.
+3. For each, interpolate the edited industry name into the URL form,
+   https://wiki.mymentor.com/index.php?title=XXX&action=edit
+   where XXX is. Build an array of URLs. (Maybe use #map.)
+4. Then iterate through this array of URLs.
+5. For each, download the contents of the page into a directory.
+
+PART TWO:
+6. Iterate through the files, and for each, iterate through the lines.
+7. Extract whatever fits into /\[\[(.+?)\]\]/.
+8. Push that onto an array, constructing comma-separated lines.
+9. Output to text file (actually, to the console is fine if that works).

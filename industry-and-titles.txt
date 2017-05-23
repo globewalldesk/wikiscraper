@@ -1,0 +1,399 @@
+Non-Profit Organization Management|
+Food & Beverages|
+Graphic Design|Graphic Designers
+Internet|Web Developers
+Financial Services|Financial Analysts
+Financial Services|Personal Financial Advisors
+Financial Services|Securities, Commodities, and Financial Services Sales Agents
+Hospital & Health Care|EMTs and Paramedics
+Hospital & Health Care|Licensed Practical and Licensed Vocational Nurses
+Hospital & Health Care|Medical and Health Services Managers
+Hospital & Health Care|Medical Records and Health Information Technicians
+Hospital & Health Care|Nurse Anesthetists, Nurse Midwives, and Nurse Practitioners
+Hospital & Health Care|Nursing Assistants and Orderlies
+Hospital & Health Care|Registered Nurses
+Hospital & Health Care|Surgical Technologists
+Insurance|Actuaries
+Insurance|Claims Adjusters, Appraisers, Examiners, and Investigators
+Insurance|Insurance Sales Agents
+Insurance|Insurance Underwriters
+Logistics and Supply Chain|Logisticians
+Logistics and Supply Chain|Material Recording Clerks
+Farming|Agricultural and Food Science Technicians
+Farming|Agricultural and Food Scientists
+Farming|Agricultural Engineers
+Farming|Agricultural Workers
+Farming|Farmers, Ranchers, and Other Agricultural Managers
+Package Freight Delivery|
+Dairy|
+Civil Engineering|Civil Engineering Technicians
+Civil Engineering|Civil Engineers
+E-Learning|
+Human Resources|Compensation, Benefits, and Job Analysis Specialists
+Human Resources|Human Resources Managers
+Human Resources|Human Resources Specialists
+Human Resources|Labor Relations Specialists
+Human Resources|Occupational Health and Safety Specialists
+Human Resources|Occupational Health and Safety Technicians
+Human Resources|Compensation and Benefits Managers
+Pharmaceuticals|Pharmacists
+Pharmaceuticals|Pharmacy Technicians
+Mental Health Care|Mental Health Counselors and Marriage and Family Therapists
+Mental Health Care|Psychiatric Technicians and Aides
+Mental Health Care|Psychologists
+Mental Health Care|Rehabilitation Counselors
+Mental Health Care|Substance Abuse and Behavioral Disorder Counselors
+Military|Air Crew Members
+Military|Air Crew Officers
+Military|Aircraft Launch and Recovery Officers
+Military|Aircraft Launch and Recovery Specialists
+Military|Armored Assault Vehicle Crew Members
+Military|Armored Assault Vehicle Officers
+Military|Artillery and Missile Crew Members
+Military|Artillery and Missile Officers
+Military|Command and Control Center Officers
+Military|Command and Control Center Specialists
+Military|First-Line Supervisors of Air Crew Members
+Military|First-Line Supervisors of All Other Tactical Operations Specialists
+Military|First-Line Supervisors of Weapons Specialists/Crew Members
+Military|Infantry
+Military|Infantry Officers
+Military|Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
+Military|Military Officer Special and Tactical Operations Leaders, All Other
+Military|Radar and Sonar Technicians
+Military|Special Forces
+Military|Special Forces Officers
+Transportation Trucking Railroad|Bus Drivers
+Transportation Trucking Railroad|Delivery Truck Drivers and Driver/Sales Workers
+Transportation Trucking Railroad|Hand Laborers and Material Movers
+Transportation Trucking Railroad|Heavy and Tractor-trailer Truck Drivers
+Transportation Trucking Railroad|Material Moving Machine Operators
+Transportation Trucking Railroad|Railroad Workers
+Transportation Trucking Railroad|Taxi Drivers and Chauffeurs
+Transportation Trucking Railroad|Water Transportation Workers
+Biotechnology|
+Alternative Medicine|Chiropractors
+Law Enforcement|Forensic Science Technicians
+Computer & Network Security|Information Security Analysts
+Online Media|
+Research|Anthropologists and Archeologists
+Research|Atmospheric Scientists, Including Meteorologists
+Research|Biological Technicians
+Research|Chemical Technicians
+Research|Chemists and Materials Scientists
+Research|Biochemists and Biophysicists
+Research|Economists
+Research|Epidemiologists
+Research|Geographers
+Research|Geoscientists
+Research|Historians
+Research|Hydrologists
+Research|Mathematicians
+Research|Medical Scientists
+Research|Microbiologists
+Research|Natural Sciences Managers
+Research|Physicists and Astronomers
+Research|Political Scientists
+Research|Sociologists
+Research|Statisticians
+Research|Survey Researchers
+Research|Zoologists and Wildlife Biologists
+Legal Services|Court Reporters
+Fine Art|
+Program Development|
+Ranching|
+Sports|Athletes and Sports Competitors
+Sports|Athletic Trainers
+Sports|Coaches and Scouts
+Sports|Umpires, Referees, and Other Sports Officials
+Entertainment|Dancers and Choreographers
+Broadcast Media|Announcers
+Broadcast Media|Broadcast and Sound Engineering Technicians
+Accounting|Accountants and Auditors
+Accounting|Bookkeeping, Accounting, and Auditing Clerks
+Accounting|Budget Analysts
+Accounting|Financial Examiners
+Electrical Electronic Manufacturing|Electrical and Electronics Engineering Technicians
+Electrical Electronic Manufacturing|Electrical and Electronics Engineers
+Electrical Electronic Manufacturing|Electrical and Electronics Installers and Repairers
+Electrical Electronic Manufacturing|Electro-mechanical Technicians
+Investment Management|
+Aviation & Aerospace|Aerospace Engineers
+Aviation & Aerospace|Aircraft and Avionics Equipment Mechanics and Technicians
+Real Estate|Appraisers and Assessors of Real Estate
+Real Estate|Real Estate Brokers and Sales Agents
+Publishing|Art Directors
+Publishing|Desktop Publishers
+Publishing|Editors
+Events Services|Meeting, Convention, and Event Planners
+Fund-Raising|Fundraisers
+Utilities|Line Installers and Repairers
+Utilities|Power Plant Operators, Distributors, and Dispatchers
+Utilities|Water and Wastewater Treatment Plant and System Operators
+Hospitality|
+Computer Networking|Computer Network Architects
+Computer Networking|Network and Computer Systems Administrators
+Nanotechnology|
+Railroad Manufacture|
+Chemicals|Chemical Engineers
+Supermarkets|
+Printing|
+Public Policy|
+tester.rb|
+Alternative Dispute Resolution|Arbitrators, Mediators, and Conciliators
+Business Supplies and Equipment|
+Glass, Ceramics & Concrete|Materials Engineers
+Gambling & Casinos|Gaming Services Workers
+Media Production|Multimedia Artists and Animators
+Renewables & Environment|Solar Photovoltaic Installers
+Renewables & Environment|Wind Turbine Technicians
+Individual & Family Services|Childcare Workers
+Individual & Family Services|Personal Care Aides
+Individual & Family Services|Social and Community Service Managers
+Individual & Family Services|Social and Human Service Assistants
+Individual & Family Services|Social Workers
+Capital Markets|
+Automotive|Automotive Body and Glass Repairers
+Automotive|Automotive Service Technicians and Mechanics
+Automotive|Diesel Service Technicians and Mechanics
+Performing Arts|
+Design|Industrial Designers
+Philanthropy|
+Consumer Goods|Assemblers and Fabricators
+Consumer Goods|Industrial Production Managers
+Consumer Goods|Metal and Plastic Machine Workers
+Consumer Goods|Quality Control Inspectors
+Consumer Goods|Painting and Coating Workers
+Writing and Editing|Technical Writers
+Writing and Editing|Writers and Authors
+Civic & Social Organization|
+Machinery|Boilermakers
+Machinery|Elevator Installers and Repairers
+Machinery|Heavy Vehicle and Mobile Equipment Service Technicians
+Machinery|Industrial Machinery Mechanics, Machinery Maintenance Workers, and Millwrights
+Machinery|Machinists and Tool and Die Makers
+Machinery|Small Engine Mechanics
+Consumer Services|Animal Care and Service Workers
+Consumer Services|Bill and Account Collectors
+Consumer Services|Customer Service Representatives
+Consumer Services|Funeral Service Workers
+Semiconductors|
+Veterinary|Veterinarians
+Veterinary|Veterinary Assistants and Laboratory Animal Caretakers
+Veterinary|Veterinary Technologists and Technicians
+Airlines Aviation|Air Traffic Controllers
+Airlines Aviation|Airline and Commercial Pilots
+Airlines Aviation|Flight Attendants
+Security and Investigations|Private Detectives and Investigators
+Security and Investigations|Security Guards and Gaming Surveillance Officers
+Arts and Crafts|Craft and Fine Artists
+Arts and Crafts|Floral Designers
+Textiles|
+Motion Pictures and Film|Actors
+Motion Pictures and Film|Producers and Directors
+Motion Pictures and Film|Film and Video Editors and Camera Operators
+Import and Export|
+International Affairs|
+Think Tanks|
+Religious Institutions|
+Computer Software|Computer Programmers
+Computer Software|Software Developers
+Music|Music Directors and Composers
+Music|Musicians and Singers
+Investment Banking|
+Commercial Real Estate|
+Outsourcing Offshoring|
+Staffing and Recruiting|
+Mechanical or Industrial Engineering|Industrial Engineering Technicians
+Mechanical or Industrial Engineering|Industrial Engineers
+Mechanical or Industrial Engineering|Mechanical Engineering Technicians
+Mechanical or Industrial Engineering|Mechanical Engineers
+Tobacco|
+Food Production|Bakers
+Food Production|Butchers
+Food Production|Food and Tobacco Processing Workers
+Food Production|Food Preparation Workers
+Plastics|
+Public Relations and Communications|Public Relations and Fundraising Managers
+Public Relations and Communications|Public Relations Specialists
+Telecommunications|Telecommunications Equipment Installers and Repairers
+Venture Capital & Private Equity|
+Political Organization|
+Luxury Goods & Jewelry|Jewelers and Precious Stone and Metal Workers
+Health, Wellness and Fitness|Audiologists
+Health, Wellness and Fitness|Dental Assistants
+Health, Wellness and Fitness|Dental Hygienists
+Health, Wellness and Fitness|Dentists
+Health, Wellness and Fitness|Dietitians and Nutritionists
+Health, Wellness and Fitness|Exercise Physiologists
+Health, Wellness and Fitness|Fitness Trainers and Instructors
+Health, Wellness and Fitness|Genetic Counselors
+Health, Wellness and Fitness|Health Educators and Community Health Workers
+Health, Wellness and Fitness|Home Health Aides
+Health, Wellness and Fitness|Massage Therapists
+Health, Wellness and Fitness|Opticians, Dispensing
+Health, Wellness and Fitness|Optometrists
+Health, Wellness and Fitness|Speech-Language Pathologists
+Packaging and Containers|
+Law Practice|Lawyers
+Law Practice|Paralegals and Legal Assistants
+Wine and Spirits|Bartenders
+Industrial Automation|
+Public Safety|Correctional Officers and Bailiffs
+Public Safety|Emergency Management Directors
+Public Safety|Fire Inspectors
+Public Safety|Firefighters
+Public Safety|Police and Detectives
+Public Safety|Police, Fire, and Ambulance Dispatchers
+Public Safety|Probation Officers and Correctional Treatment Specialists
+Executive Office|Administrative Services Managers
+Executive Office|Financial Clerks
+Executive Office|Financial Managers
+Executive Office|General Office Clerks
+Executive Office|Purchasing Managers
+Executive Office|Receptionists
+Executive Office|Sales Managers
+Executive Office|Secretaries and Administrative Assistants
+Executive Office|Top Executives
+Construction|Carpenters
+Construction|Cost Estimators
+Construction|Construction and Building Inspectors
+Construction|Construction Equipment Operators
+Construction|Construction Laborers and Helpers
+Construction|Construction Managers
+Construction|Drywall and Ceiling Tile Installers, and Tapers
+Construction|Electricians
+Construction|Flooring Installers and Tile and Marble Setters
+Construction|Glaziers
+Construction|Insulation Workers
+Construction|Masonry Workers
+Construction|Painters, Construction and Maintenance
+Construction|Plumbers, Pipefitters, and Steamfitters
+Construction|Roofers
+Construction|Sheet Metal Workers
+Construction|Welders, Cutters, Solderers, and Brazers
+Market Research|Market Research Analysts
+Wholesale|Wholesale and Manufacturing Sales Representatives
+Environmental Services|Conservation Scientists and Foresters
+Environmental Services|Environmental Engineering Technicians
+Environmental Services|Environmental Engineers
+Environmental Services|Environmental Science and Protection Technicians
+Environmental Services|Environmental Scientists and Specialists
+Cosmetics|Barbers, Hairdressers, and Cosmetologists
+Cosmetics|Manicurists and Pedicurists
+Cosmetics|Skincare Specialists
+Government Administration|Postal Service Workers
+Government Administration|Tax Examiners and Collectors, and Revenue Agents
+Banking|Loan Officers
+Banking|Tellers
+Libraries|Archivists, Curators, and Museum Workers
+Libraries|Librarians
+Libraries|Library Technicians and Assistants
+Sporting Goods|
+International Trade and Development|
+Mining & Metals|Mining and Geological Engineers
+Mining & Metals|Ironworkers
+Shipbuilding|Marine Engineers and Naval Architects
+Education Management|Elementary, Middle, and High School Principals
+Education Management|Instructional Coordinators
+Education Management|Postsecondary Education Administrators
+Education Management|Preschool and Childcare Center Directors
+Building Materials|Hazardous Materials Removal Workers
+Animation|
+Computer Hardware|Computer Hardware Engineers
+Retail|Buyers and Purchasing Agents
+Retail|Cashiers
+Retail|Retail Sales Workers
+Information Services|
+Leisure, Travel & Tourism|Lodging Managers
+Leisure, Travel & Tourism|Travel Agents
+Photography|Photographers
+Professional Training & Coaching|Training and Development Managers
+Professional Training & Coaching|Training and Development Specialists
+Apparel & Fashion|Fashion Designers
+Wireless|
+Judiciary|Judges and Hearing Officers
+Defense & Space|
+Higher Education|Career and Technical Education Teachers
+Higher Education|Postsecondary Teachers
+Furniture|Woodworkers
+Medical Practice|Medical Assistants
+Medical Practice|Medical Transcriptionists
+Medical Practice|Occupational Therapists
+Medical Practice|Occupational Therapy Assistants and Aides
+Medical Practice|Phlebotomists
+Medical Practice|Physical Therapist Assistants and Aides
+Medical Practice|Physical Therapists
+Medical Practice|Physician Assistants
+Medical Practice|Physicians and Surgeons
+Medical Practice|Podiatrists
+Medical Practice|Radiation Therapists
+Medical Practice|Recreational Therapists
+Medical Practice|Respiratory Therapists
+Translation and Localization|Interpreters and Translators
+Restaurants|Chefs and Head Cooks
+Restaurants|Cooks
+Restaurants|Food and Beverage Serving and Related Workers
+Restaurants|Food Service Managers
+Restaurants|Waiters and Waitresses
+Facilities Services|General Maintenance and Repair Workers
+Facilities Services|Grounds Maintenance Workers
+Facilities Services|Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+Facilities Services|Interior Designers
+Facilities Services|Janitors and Building Cleaners
+Facilities Services|Pest Control Workers
+Facilities Services|Property, Real Estate, and Community Association Managers
+Facilities Services|Stationary Engineers and Boiler Operators
+Newspapers|Reporters, Correspondents, and Broadcast News Analysts
+Legislative Office|
+Architecture & Planning|Architects
+Architecture & Planning|Architectural and Engineering Managers
+Architecture & Planning|Cartographers and Photogrammetrists
+Architecture & Planning|Drafters
+Architecture & Planning|Landscape Architects
+Architecture & Planning|Surveying and Mapping Technicians
+Architecture & Planning|Surveyors
+Architecture & Planning|Urban and Regional Planners
+Warehousing|
+Medical Devices|Biomedical Engineers
+Medical Devices|Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians
+Medical Devices|Diagnostic Medical Sonographers and Cardiovascular Technologists and Technicians, Including Vascular Technologists
+Medical Devices|Health and Safety Engineers
+Medical Devices|Medical and Clinical Laboratory Technologists and Technicians
+Medical Devices|Medical Equipment Repairers
+Medical Devices|Nuclear Medicine Technologists
+Medical Devices|Orthotists and Prosthetists
+Medical Devices|Radiologic and MRI Technologists
+Oil & Energy|Geological and Petroleum Technicians
+Oil & Energy|Nuclear Engineers
+Oil & Energy|Nuclear Technicians
+Oil & Energy|Petroleum Engineers
+Government Relations|
+Computer Games|
+Fishery|Fishing and Hunting Workers
+Museums and Institutions|
+Consumer Electronics|
+Maritime|
+Recreational Facilities and Services|Recreation Workers
+Management Consulting|Management Analysts
+Management Consulting|Operations Research Analysts
+Marketing and Advertising|Advertising, Promotions, and Marketing Managers
+Marketing and Advertising|Advertising Sales Agents
+Marketing and Advertising|Models
+Marketing and Advertising|Sales Engineers
+Information Technology and Services|Computer and Information Research Scientists
+Information Technology and Services|Computer and Information Systems Managers
+Information Technology and Services|Computer Support Specialists
+Information Technology and Services|Computer Systems Analysts
+Information Technology and Services|Database Administrators
+Information Technology and Services|Information Clerks
+Paper & Forest Products|Forest and Conservation Workers
+Paper & Forest Products|Logging Workers
+Primary Secondary Education|Adult Literacy and High School Equivalency Diploma Teachers
+Primary Secondary Education|High School Teachers
+Primary Secondary Education|Kindergarten and Elementary School Teachers
+Primary Secondary Education|Middle School Teachers
+Primary Secondary Education|Preschool Teachers
+Primary Secondary Education|School and Career Counselors
+Primary Secondary Education|Special Education Teachers
+Primary Secondary Education|Teacher Assistants
