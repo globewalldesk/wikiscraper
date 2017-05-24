@@ -28,8 +28,7 @@ PART THREE (masher.rb):
     pointing to arrays of specialized job titles.
 13. Iterate the iandt array.
 14. For each general job title in iandt,
-15. find the matching title as a key in atoz,
-16. and if there is no matching title, then throw exception with info;
-16. otherwise, iterate through the array that is the value of that key,
+15. find the matching title as a key in atoz.
+16. Iterate the iandt array
 17. and construct a new pipe-separated string, putting that in an array.
 18. Finally, output to a2z_industry_matchup.txt.

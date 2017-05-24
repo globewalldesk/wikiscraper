@@ -1,4 +1,4 @@
-1st-5th grade teachers, see: Kindergarten and elementary school teachers
+ï»¿1st-5th grade teachers, see: Kindergarten and elementary school teachers
 21 dealers, see: Gaming services workers
 3D animators, see: Multimedia artists and animators
 6th-8th grade teachers, see: Middle school teachers
@@ -1577,7 +1577,7 @@ Cut file clerks, see: Information clerks
 Cutter operators, see: Logging workers
 Cutters, see: Metal and plastic machine workers
 Cutters, see: Welders, cutters, solderers, and brazers
-Cutting, punching, and press machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Cutting, punching, and press machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Cutting torch operators, see: Metal and plastic machine workers
 Cyclists, see: Athletes and sports competitors
 Cytogenetic technologists, see: Medical and clinical laboratory technologists and technicians
@@ -1775,7 +1775,7 @@ Dredge operators, see: Material moving machine operators
 Dredgers, see: Material moving machine operators
 Dressage judges, see: Umpires, referees, and other sports officials
 Dress designers, see: Fashion designers
-Drilling and boring machine tool setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Drilling and boring machine tool setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Drilling engineers, see: Petroleum engineers
 Drill press operators for metal, see: Metal and plastic machine workers
 Drink mixers, see: Bartenders
@@ -2129,7 +2129,7 @@ Experimental psychologists, see: Psychologists
 Exploration geologists, see: Geoscientists
 Export managers, see: Sales managers
 Exterminators, see: Pest control workers
-Extruding and drawing machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Extruding and drawing machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Eye doctors, see: Optometrists
 Eyeglass assemblers, see: Dental and ophthalmic laboratory technicians and medical appliance technicians
 Eyeglass fitters, see: Opticians, dispensing
@@ -2366,7 +2366,7 @@ Forestry and conservation science teachers, see: Postsecondary teachers
 Forestry laborers, see: Forest and conservation workers
 Forestry scientists, see: Conservation scientists and foresters
 Forest technology professors, see: Postsecondary teachers
-Forging machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Forging machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Forging roll operators, see: Metal and plastic machine workers
 Forklift drivers, see: Material moving machine operators
 Forklift mechanics, see: Heavy vehicle and mobile equipment service technicians
@@ -2584,7 +2584,7 @@ Greeters, see: Receptionists
 Griddle attendants, see: Cooks
 Griddle cooks, see: Cooks
 Grill cooks, see: Cooks
-Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Grinding, lapping, polishing, and buffing machine tool setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Grocery checkers, see: Cashiers
 Grocery stockers, see: Material recording clerks
 Grocery store baggers, see: Hand laborers and material movers
@@ -2696,7 +2696,7 @@ Heating and cooling systems engineers, see: Mechanical engineers
 Heating equipment technicians, see: Heating, air conditioning, and refrigeration mechanics and installers
 Heat transfer technicians, see: Mechanical engineering technicians
 Heat treater apprentices, see: Metal and plastic machine workers
-Heat treating equipment setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Heat treating equipment setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Heat treating furnace tenders, see: Metal and plastic machine workers
 Heavy-duty truck mechanics, see: Diesel service technicians and mechanics
 Heavy and tractor-trailer truck drivers
@@ -2706,13 +2706,13 @@ Helicopter mechanics, see: Aircraft and avionics equipment mechanics and technic
 Helicopter pilots, see: Airline and commercial pilots
 Help desk analysts, see: Computer support specialists
 Help desk technicians, see: Computer support specialists
-Helpers—Brickmasons, blockmasons, stonemasons, and tile and marble setters, see: Construction laborers and helpers
-Helpers—Carpenters, see: Construction laborers and helpers
-Helpers—cleaning, see: Janitors and building cleaners
-Helpers—Electricians, see: Construction laborers and helpers
-Helpers—Painters, paperhangers, plasterers, and stucco masons, see: Construction laborers and helpers
-Helpers—Pipelayers, plumbers, pipefitters, and steamfitters, see: Construction laborers and helpers
-Helpers—Roofers, see: Construction laborers and helpers
+Helpersâ€”Brickmasons, blockmasons, stonemasons, and tile and marble setters, see: Construction laborers and helpers
+Helpersâ€”Carpenters, see: Construction laborers and helpers
+Helpersâ€”cleaning, see: Janitors and building cleaners
+Helpersâ€”Electricians, see: Construction laborers and helpers
+Helpersâ€”Painters, paperhangers, plasterers, and stucco masons, see: Construction laborers and helpers
+Helpersâ€”Pipelayers, plumbers, pipefitters, and steamfitters, see: Construction laborers and helpers
+Helpersâ€”Roofers, see: Construction laborers and helpers
 Hematology technicians, see: Medical and clinical laboratory technologists and technicians
 Hemodialysis technicians, see: Medical and clinical laboratory technologists and technicians
 Herbarium curators, see: Archivists, curators, and museum workers
@@ -3149,7 +3149,7 @@ Lapidarists, see: Jewelers and precious stone and metal workers
 Large animal veterinarians, see: Veterinarians
 Laryngologists, see: Physicians and surgeons
 Latent print examiners, see: Forensic science technicians
-Lathe and turning machine tool setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Lathe and turning machine tool setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Latin american studies professors, see: Postsecondary teachers
 Launch operators, see: Water transportation workers
 Law librarians, see: Librarians
@@ -3324,7 +3324,7 @@ Machine installers, see: Industrial machinery mechanics and maintenance workers 
 Machinery assemblers, see: Industrial machinery mechanics and maintenance workers and millwrights
 Machinery dismantlers, see: Industrial machinery mechanics and maintenance workers and millwrights
 Machinery maintenance mechanics, see: Industrial machinery mechanics and maintenance workers and millwrights
-Machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Machine tool technician instructors, see: Career/technical education teachers
 Machine welders, see: Metal and plastic machine workers
 Machinists and tool and die makers
@@ -3614,7 +3614,7 @@ Middle school vocational education teachers, see: Career/technical education tea
 Migratory game bird biologists, see: Zoologists and wildlife biologists
 Military careers
 Milking machine mechanics, see: Heavy vehicle and mobile equipment service technicians
-Milling and planing machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Milling and planing machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Mill recorders, see: Material recording clerks
 Millwrights, see: Industrial machinery mechanics and maintenance workers and millwrights
 Mine car mechanics, see: Heavy vehicle and mobile equipment service technicians
@@ -3644,7 +3644,7 @@ Model makers, metal and plastic, see: Metal and plastic machine workers
 Model makers, see: Woodworkers
 Models
 Mold and model makers, see: Jewelers and precious stone and metal workers
-Molding, coremaking, and casting machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Molding, coremaking, and casting machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Molecular biology technologists, see: Medical and clinical laboratory technologists and technicians
 Molecular physicists, see: Physicists and astronomers
 Molten iron pourers, see: Metal and plastic machine workers
@@ -3705,7 +3705,7 @@ Multi-operation forming machine setters, see: Metal and plastic machine workers
 Multimedia artists and animators
 Multimedia artists, see: Multimedia artists and animators
 Multimedia production assistants, see: Broadcast and sound engineering technicians
-Multiple machine tool setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Multiple machine tool setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Municipal bond traders, see: Securities, commodities, and financial services sales agents
 Municipal clerks, see: Information clerks
 Municipal engineers, see: Civil engineers
@@ -4267,7 +4267,7 @@ Plastic surgeons, see: Physicians and surgeons
 Plastic thread milling machine setup operators, see: Metal and plastic machine workers
 Plate glass installer helpers, see: Construction laborers and helpers
 Plate glass installers, see: Glaziers
-Plating and coating machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Plating and coating machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Plating machine operators, see: Metal and plastic machine workers
 Play back operators, see: Broadcast and sound engineering technicians
 Playground workers, see: Recreation workers
@@ -4853,7 +4853,7 @@ Rod buster helpers, see: Construction laborers and helpers
 Rod busters, see: Iron workers
 Rodbusters, see: Iron workers
 Rolfers, see: Massage therapists
-Rolling machine setters, operators, and tenders—metal and plastic, see: Metal and plastic machine workers
+Rolling machine setters, operators, and tendersâ€”metal and plastic, see: Metal and plastic machine workers
 Roofer assistants, see: Construction laborers and helpers
 Roofer helpers, see: Construction laborers and helpers
 Roofers
