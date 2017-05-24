@@ -45,10 +45,10 @@ iandt.each do |industry, gjob|
   gjobcap = gjob.capitalize if gjob
   if atoz[gjobcap]
     atoz[gjobcap].each do |sjob|
-      big_list << "#{industry}|#{gjob}|#{sjob}"
+      big_list << "#{industry}|#{gjob}|#{sjob}\r\n" # Windows newlines.
     end
   else
-    big_list << "#{industry}|#{gjob}|"
+    big_list << "#{industry}|#{gjob}|\r\n"
   end
 end
 puts big_list.length
